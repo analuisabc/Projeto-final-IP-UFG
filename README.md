@@ -1,5 +1,5 @@
 # Projeto-final-IP-UFG
-Projeto final da disciplina de Introdução à Programação.
+Projeto final da disciplina de Introdução à Programação, cursada em 2022/1.
 
 O programa visa realizar operações requisitadas entre polinômios inseridos.
 
